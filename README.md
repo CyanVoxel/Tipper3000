@@ -27,13 +27,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Imgur](https://i.imgur.com/6hZzuR2.gifv)
+[GIF Link](https://i.imgur.com/6hZzuR2.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Working with Xcode on slower Macs (My laptop could no longer handle Xcode, and I had to install a still-slow VM on my PC)
+- Learning that Outlets stay as a "ghost" even after the code has been removed (Simulator would crash with generic error)
+- Some UI elements were more difficult to change, such as the status bar color and "Back" navigation button for a Settings screen
 
 ## License
 
