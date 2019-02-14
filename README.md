@@ -4,7 +4,7 @@
 
 Submitted by: **Travis Abendshien**
 
-Time spent: **5** hours spent in total (Not including attemped Xcode setup across multiple computers)
+Time spent: **5** hours spent in total (Not including attempted Xcode setup across multiple computers)
 
 ## User Stories
 
